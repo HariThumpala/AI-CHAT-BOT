@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Bhuvaneswari ",
+        "email": "bhuvaneswarivasamsetti4@gmail.com",
+        "password": "scrypt:32768:8:1$Pc79t8QldZa8K9Pl$52539d1f0b3019fc856aacd87dc9912feb6555f9f3156d38297674d81b452ea2de6fcd9eba064eb5e8df1c783ffab9b5d5a3b735c06608a30444987fd67f81b2"
+    },
+    {
+        "name": "bhuvi",
+        "email": "Bhuvaneswarivasamsetti4@gmail.com",
+        "password": "scrypt:32768:8:1$mmEbZnhD0VhngUTX$9de801390291fab5fdf9ae7712bb4b6bd4a1f3188ad5be921b18558a3bcaab85996bd930f5a10d29f9a169e79575d7cbc9880e048672cc77f22540ef6736db35"
+    },
+    {
+        "name": "babu",
+        "email": "maheshbabu@02",
+        "password": "scrypt:32768:8:1$T8sm8K5Bc1As1XRs$714730f3c90e99c4ecc698ed13b0692f391027ed38053f1ee1a29be60250a86e06f640f6dc0d6d7bfa4cd48f43e80c9894c1bc19445135bea77a25ea8302c231"
+    },
+    {
+        "name": "mahesh",
+        "email": "jaibabu@gamial.com",
+        "password": "scrypt:32768:8:1$5rLqXqlzlsmtFNK5$bb0b74ec2131c3cac957f59fcb3f519a36157767e4ae8eceba8ffd77fefecdd91624d1f18e79fa72a2966acb71f35740b15e31eef17d9f04f77aa54e24d031a4"
+    },
+    {
+        "name": "giri",
+        "email": "giridharsyamsamsani@gmail.com",
+        "password": "scrypt:32768:8:1$yQzgv52o2Opx1VA0$8e25608b10897314f2cc66f8106c0acfcf2edf3206aaf7714e369b5e35ccfbc48642af99367d0605224b7d6d591fcca84189a61c265839bd31e6695718bfc469"
+    },
+    {
+        "name": "prasanthi",
+        "email": "ramsasidhar@gmail.com",
+        "password": "scrypt:32768:8:1$LXYDBnaJt6c7Rjmc$1b74eebb69466796867eff282376970e8499c5c79ed09cddd90ab75968319c3c0dd0361b24487dafd4d2d0ffc49c7a5d30a204f65a6edc12d9da52693700f5c0"
+    },
+    {
+        "name": "Thumpala Haribabu",
+        "email": "thumpalaharibabu@gmail.com",
+        "password": "scrypt:32768:8:1$AnzYWvQoNDDLHnir$8842b759ac3836767f599fac6a8cfc225a91f39260cb82ca3ae2909205b08d339d0d72b50d48408337ace4ba1e3c63f3f4935d8261f617ccb082fb7747e956d1"
+    }
+]
